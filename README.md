@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte do **Processo Seletivo Dev - OnSafety**
 - **Docker** (Containerização)
 - **Git/GitHub** (Controle de versão)
 
-## 🛠þ Como Rodar o Projeto
+## 🛠 Como Rodar o Projeto
 
 ### **1️⃣ Requisitos**
 
